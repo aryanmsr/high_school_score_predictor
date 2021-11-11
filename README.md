@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/aryanmsr.github.io/content/featured/CaimConsulting/demo1.png" />
+  <img alt="Demo" src="https://github.com/aryanmsr/aryanmsr.github.io/blob/main/content/featured/CaimConsulting/demo1.png" />
 </div>
 
 The dataset includes attributes such as past student grades, demographic, social, and school related factors. After performing some basic visualizations, data pre-processing and feature engineering, the data was modelled under binary/five-level classification and regression tasks. Some models' hyperparameters were fine-tunded to optimize performance, whereas other models with already competitive results did not undergo this procedure to prioritize computational time over performance. Towards the end of this notebook, to tackle class imbalance, the SMOTE (Synthetic Minority Oversampling Technique) was performed, yielding more competitive results.
