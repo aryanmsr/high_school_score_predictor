@@ -15,4 +15,4 @@ The dataset includes attributes such as past student grades, demographic, social
 I am still learning everyday and I am always open to new ideas that can help me improve my code, therefore, if you have any feedback, queries or concerns regarding this notebook, please feel free to email me at aryanmsr@gmail.com.
 
 - Link to dataset: https://archive.ics.uci.edu/ml/datasets/Student+Performance
-- Link to the original research paper from which this notebook is based on: http://www3.dsi.uminho.pt/pcortez/student.pdf ßß
+- Link to the original research paper from which this notebook is based on: http://www3.dsi.uminho.pt/pcortez/student.pdf 
