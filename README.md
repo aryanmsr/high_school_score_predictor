@@ -17,7 +17,7 @@ I am still learning everyday and I am always open to new ideas that can help me 
 - Link to the original research paper from which this notebook is based on: http://www3.dsi.uminho.pt/pcortez/student.pdf 
 
 ## Snapshots
-## Some Visuals
+### Some Visuals
 
 <figure class="half">
   <table>
@@ -40,3 +40,5 @@ I am still learning everyday and I am always open to new ideas that can help me 
   </table>
   <figcaption>Plots visualizing the distribution of various features.</figcaption>
 </figure>
+
+### Final Model Performance 
