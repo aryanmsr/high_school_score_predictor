@@ -26,7 +26,15 @@ I am still learning everyday and I am always open to new ideas that can help me 
         <img src="https://github.com/aryanmsr/high_school_score_predictor/blob/master/Screen%20Shot%202022-01-13%20at%203.49.39%20PM.png" alt="fig1" width = 500>
       </td>
       <td>
-        <img src="https://github.com/aryanmsr/Drone_Delivery/blob/main/Screen%20Shot%202022-01-13%20at%2012.17.04%20AM.png" alt="fig2" width = 500>
+        <img src="https://github.com/aryanmsr/high_school_score_predictor/blob/master/Screen%20Shot%202022-01-13%20at%203.49.51%20PM.png" alt="fig2" width = 500>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/aryanmsr/high_school_score_predictor/blob/master/Screen%20Shot%202022-01-13%20at%203.49.39%20PM.png" alt="fig1" width = 500>
+      </td>
+      <td>
+        <img src="https://github.com/aryanmsr/high_school_score_predictor/blob/master/Screen%20Shot%202022-01-13%20at%203.49.51%20PM.png" alt="fig2" width = 500>
       </td>
     </tr>
   </table>
