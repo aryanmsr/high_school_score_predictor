@@ -15,6 +15,7 @@ I am still learning everyday and I am always open to new ideas that can help me 
 
 - Link to dataset: https://archive.ics.uci.edu/ml/datasets/Student+Performance
 - Link to the original research paper from which this notebook is based on: http://www3.dsi.uminho.pt/pcortez/student.pdf 
+- Link to code: https://github.com/aryanmsr/high_school_score_predictor/blob/master/final_notebook.ipynb
 
 ## Snapshots
 ### Some Visuals
