@@ -41,8 +41,12 @@ I am still learning everyday and I am always open to new ideas that can help me 
   <figcaption>Plots visualizing the distribution of various features.</figcaption>
 </figure>
 
-### Final Model Performance 
+### Model Accuracies 
 
-<div align="left">
-  <img alt="fig5" src="https://github.com/aryanmsr/high_school_score_predictor/blob/master/Screen%20Shot%202022-01-13%20at%203.50.43%20PM.png" width=500 />
-</div>
+<figure class="half">
+  <div align="left">
+    <img alt="fig5" src="https://github.com/aryanmsr/high_school_score_predictor/blob/master/Screen%20Shot%202022-01-13%20at%203.50.43%20PM.png" width=500 />
+    
+  </div>
+  <figcaption>The Plot above shows the final accuracies of some of the models used in the project.</figcaption>
+</figure>
