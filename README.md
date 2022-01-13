@@ -17,3 +17,18 @@ I am still learning everyday and I am always open to new ideas that can help me 
 - Link to the original research paper from which this notebook is based on: http://www3.dsi.uminho.pt/pcortez/student.pdf 
 
 ## Snapshots
+## Some Visuals
+
+<figure class="half">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/aryanmsr/Drone_Delivery/blob/main/Screen%20Shot%202022-01-13%20at%2012.16.45%20AM.png" alt="fig1" width = 500>
+      </td>
+      <td>
+        <img src="https://github.com/aryanmsr/Drone_Delivery/blob/main/Screen%20Shot%202022-01-13%20at%2012.17.04%20AM.png" alt="fig2" width = 500>
+      </td>
+    </tr>
+  </table>
+  <figcaption>Plots visualizing drones and orders.</figcaption>
+</figure>
