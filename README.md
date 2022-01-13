@@ -44,5 +44,5 @@ I am still learning everyday and I am always open to new ideas that can help me 
 ### Final Model Performance 
 
 <div align="left">
-  <img alt="fig5" src="https://github.com/aryanmsr/aryanmsr.github.io/blob/main/src/images/demo%202.png" width=500 />
+  <img alt="fig5" src="https://github.com/aryanmsr/high_school_score_predictor/blob/master/Screen%20Shot%202022-01-13%20at%203.50.43%20PM.png" width=500 />
 </div>
