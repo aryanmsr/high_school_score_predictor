@@ -31,10 +31,10 @@ I am still learning everyday and I am always open to new ideas that can help me 
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/aryanmsr/high_school_score_predictor/blob/master/Screen%20Shot%202022-01-13%20at%203.50.00%20PM.png" alt="fig1" width = 500>
+        <img src="https://github.com/aryanmsr/high_school_score_predictor/blob/master/Screen%20Shot%202022-01-13%20at%203.50.00%20PM.png" alt="fig3" width = 500>
       </td>
       <td>
-        <img src="https://github.com/aryanmsr/high_school_score_predictor/blob/master/Screen%20Shot%202022-01-13%20at%203.50.08%20PM.png" alt="fig2" width = 500>
+        <img src="https://github.com/aryanmsr/high_school_score_predictor/blob/master/Screen%20Shot%202022-01-13%20at%203.50.08%20PM.png" alt="fig4" width = 500>
       </td>
     </tr>
   </table>
@@ -42,3 +42,7 @@ I am still learning everyday and I am always open to new ideas that can help me 
 </figure>
 
 ### Final Model Performance 
+
+<div align="left">
+  <img alt="fig5" src="https://github.com/aryanmsr/aryanmsr.github.io/blob/main/src/images/demo%202.png" width=500 />
+</div>
